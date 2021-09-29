@@ -1,7 +1,7 @@
 # CursoAPI
 
 In this project I made an API for my Web application that I added to the repository:
-`https://github.com/Felipe-Baz/CursoMVC`
+`https://github.com/Felipe-Baz/CursoMVC`.
 
 I did this project in order to learn more about APIs.
 
